@@ -4,6 +4,8 @@
 // TODO Easier to use fonts; GDI font support.
 // TODO Formalize the notion of size-stability? See _UIExpandPaneButtonInvoke.
 
+#pragma once
+
 #include <stdint.h>
 #include <stddef.h>
 #include <stdbool.h>
